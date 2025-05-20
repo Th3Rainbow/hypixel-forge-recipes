@@ -1,83 +1,1112 @@
 {
-  "MITHRIL_PLATE": {
-    "recipe": {
-      "ENCHANTED_MITHRIL": 160,
-      "REFINED_MITHRIL": 1
+    "AMBER_MATERIAL": {
+        "inputs": [
+            "GOLDEN_PLATE:1",
+            "FINE_AMBER_GEM:12"
+        ],
+        "count": 1,
+        "duration": 21600,
+        "overrideOutputId": "AMBER_MATERIAL"
     },
-    "time": 6
-  },
-  "GOLDEN_PLATE": {
-    "recipe": {
-      "ENCHANTED_GOLD_BLOCK": 5,
-      "ENCHANTED_IRON_BLOCK": 3,
-      "REFINED_DIAMOND": 1
+    "AMBER_NECKLACE": {
+        "inputs": [
+            "GLOSSY_GEMSTONE:32.0",
+            "FLAWLESS_AMBER_GEM:2.0"
+        ],
+        "count": 1.0,
+        "duration": 86400,
+        "overrideOutputId": "AMBER_NECKLACE"
     },
-    "time": 6
-  },
-  "REFINED_MITHRIL": {
-    "recipe": {
-      "ENCHANTED_MITHRIL": 320
+    "AMBER_POLISHED_DRILL_ENGINE": {
+        "inputs": [
+            "DRILL_ENGINE:5.0",
+            "PERFECT_AMBER_GEM:5.0",
+            "PRECURSOR_APPARATUS:16.0",
+            "SAPPHIRE_POLISHED_DRILL_ENGINE:1.0",
+            "PLASMA:32.0"
+        ],
+        "count": 1.0,
+        "duration": 30,
+        "overrideOutputId": "AMBER_POLISHED_DRILL_ENGINE"
     },
-    "time": 4
-  },
-  "REFINED_DIAMOND": {
-    "recipe": {
-      "ENCHANTED_DIAMOND_BLOCK": 1
+    "AMETHYST_GAUNTLET": {
+        "inputs": [
+            "GLOSSY_GEMSTONE:32.0",
+            "FLAWLESS_AMETHYST_GEM:2.0"
+        ],
+        "count": 1.0,
+        "duration": 86400,
+        "overrideOutputId": "AMETHYST_GAUNTLET"
     },
-    "time": 4
-  },
-  "REFINED_TITANIUM": {
-    "recipe": {
-      "ENCHANTED_TITANIUM": 320
+    "AMMONITE;4": {
+        "inputs": [
+            "HELIX:1",
+            "SKYBLOCK_COIN:300000"
+        ],
+        "count": 1,
+        "duration": 259200,
+        "overrideOutputId": "AMMONITE;4"
     },
-    "time": 4
-  },
-  "FUEL_TANK": {
-    "recipe": {
-      "ENCHANTED_COAL_BLOCK": 10,
-      "REFINED_MITHRIL": 2
+    "ANKYLOSAURUS;4": {
+        "inputs": [
+            "FLAWLESS_OPAL_GEM:1.0",
+            "CLUBBED_FOSSIL:1.0"
+        ],
+        "count": 1,
+        "duration": 604800,
+        "overrideOutputId": "ANKYLOSAURUS;4"
     },
-    "time": 6
-  },
-  "DRILL_ENGINE": {
-    "recipe": {
-      "ENCHANTED_GOLD_BLOCK": 10,
-      "REFINED_DIAMOND": 2,
-      "REFINED_MITHRIL": 10
+    "BASE_CAMP_TRAVEL_SCROLL": {
+        "inputs": [
+            "SKYBLOCK_COIN:500000.0",
+            "FLAWLESS_ONYX_GEM:1.0",
+            "ENCHANTED_ENDER_PEARL:16.0"
+        ],
+        "count": 1.0,
+        "duration": 36000,
+        "overrideOutputId": "BASE_CAMP_TRAVEL_SCROLL"
     },
-    "time": 12
-  },
-  "SYNTHETIC_HEART": {
-    "recipe": {
-      "SORROW": 3,
-      "REFINED_MITHRIL": 5
+    "BEACON_2": {
+        "inputs": [
+            "REFINED_MITHRIL:5",
+            "BEACON_1:1"
+        ],
+        "count": 1,
+        "duration": 72000,
+        "overrideOutputId": "BEACON_2"
     },
-    "time": 12
-  },
-  "PERFECT_JADE": {
-    "recipe": {
-      "FLAWLESS_JADE_GEM": 5
+    "BEACON_3": {
+        "inputs": [
+            "REFINED_MITHRIL:10",
+            "BEACON_2:1"
+        ],
+        "count": 1,
+        "duration": 108000,
+        "overrideOutputId": "BEACON_3"
     },
-    "time": 8
-  },
-  "PERFECT_AMBER": {
-    "recipe": {
-      "FLAWLESS_AMBER_GEM": 5
+    "BEACON_4": {
+        "inputs": [
+            "REFINED_MITHRIL:20",
+            "BEACON_3:1",
+            "PLASMA:1"
+        ],
+        "count": 1,
+        "duration": 144000,
+        "overrideOutputId": "BEACON_4"
     },
-    "time": 8
-  },
-  "PERFECT_TOPAZ": {
-    "recipe": {
-      "FLAWLESS_TOPAZ_GEM": 5
+    "BEACON_5": {
+        "inputs": [
+            "BEACON_4:1",
+            "REFINED_MITHRIL:40",
+            "PLASMA:5"
+        ],
+        "count": 1,
+        "duration": 180000,
+        "overrideOutputId": "BEACON_5"
     },
-    "time": 8
-  },
-  "BEACON": {
-    "recipe": {
-      "ENCHANTED_IRON_BLOCK": 3,
-      "ENCHANTED_COAL_BLOCK": 3,
-      "REFINED_DIAMOND": 1
+    "BEJEWELED_COLLAR": {
+        "inputs": [
+            "BEJEWELED_HANDLE:1",
+            "REFINED_MITHRIL:4"
+        ],
+        "count": 1,
+        "duration": 7200,
+        "overrideOutputId": "BEJEWELED_COLLAR"
     },
-    "time": 12
-  }
+    "BEJEWELED_HANDLE": {
+        "inputs": [
+            "GLACITE_JEWEL:3"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "BEJEWELED_HANDLE"
+    },
+    "CRYSTAL_HOLLOWS_TRAVEL_SCROLL": {
+        "inputs": [
+            "FLAWED_RUBY_GEM:48",
+            "SKYBLOCK_COIN:50000",
+            "ENCHANTED_ENDER_PEARL:16",
+            "FINE_RUBY_GEM:80"
+        ],
+        "count": 1,
+        "duration": 36000,
+        "overrideOutputId": "CRYSTAL_HOLLOWS_TRAVEL_SCROLL"
+    },
+    "DIAMONITE": {
+        "inputs": [
+            "REFINED_DIAMOND:3"
+        ],
+        "count": 1,
+        "duration": 21600,
+        "overrideOutputId": "DIAMONITE"
+    },
+    "DIVAN_BOOTS": {
+        "inputs": [
+            "GEMSTONE_MIXTURE:10",
+            "FLAWLESS_RUBY_GEM:1",
+            "DIVAN_FRAGMENT:4"
+        ],
+        "count": 1,
+        "duration": 86400,
+        "overrideOutputId": "DIVAN_BOOTS"
+    },
+    "DIVAN_CHESTPLATE": {
+        "inputs": [
+            "GEMSTONE_MIXTURE:10",
+            "FLAWLESS_RUBY_GEM:1",
+            "DIVAN_FRAGMENT:8"
+        ],
+        "count": 1,
+        "duration": 86400,
+        "overrideOutputId": "DIVAN_CHESTPLATE"
+    },
+    "DIVAN_DRILL": {
+        "inputs": [
+            "TITANIUM_DRILL_4:1",
+            "SKYBLOCK_COIN:50000000",
+            "DIVAN_ALLOY:1"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "DIVAN_DRILL"
+    },
+    "DIVAN_HELMET": {
+        "inputs": [
+            "FLAWLESS_RUBY_GEM:1",
+            "GEMSTONE_MIXTURE:10",
+            "DIVAN_FRAGMENT:5"
+        ],
+        "count": 1,
+        "duration": 86400,
+        "overrideOutputId": "DIVAN_HELMET"
+    },
+    "DIVAN_LEGGINGS": {
+        "inputs": [
+            "DIVAN_FRAGMENT:7",
+            "FLAWLESS_RUBY_GEM:1",
+            "GEMSTONE_MIXTURE:10"
+        ],
+        "count": 1,
+        "duration": 86400,
+        "overrideOutputId": "DIVAN_LEGGINGS"
+    },
+    "DIVAN_PENDANT": {
+        "inputs": [
+            "PERFECT_PLATE:1.0",
+            "DIVAN_FRAGMENT:10.0",
+            "SHATTERED_PENDANT:1.0"
+        ],
+        "count": 1.0,
+        "duration": 604800,
+        "overrideOutputId": "DIVAN_PENDANT"
+    },
+    "DIVAN_POWDER_COATING": {
+        "inputs": [
+            "REFINED_MINERAL:32.0",
+            "GLOSSY_GEMSTONE:32.0",
+            "ENCHANTED_GOLD_BLOCK:16.0",
+            "DIVAN_FRAGMENT:5.0"
+        ],
+        "count": 1.0,
+        "duration": 129600,
+        "overrideOutputId": "DIVAN_POWDER_COATING"
+    },
+    "DRILL_ENGINE": {
+        "inputs": [
+            "ENCHANTED_IRON_BLOCK:1",
+            "ENCHANTED_REDSTONE_BLOCK:3",
+            "TREASURITE:10",
+            "GOLDEN_PLATE:1"
+        ],
+        "count": 1,
+        "duration": 108000,
+        "overrideOutputId": "DRILL_ENGINE"
+    },
+    "DWARVEN_HANDWARMERS": {
+        "inputs": [
+            "FLAWLESS_JADE_GEM:1.0",
+            "UMBER_PLATE:1.0",
+            "FLAWLESS_AMBER_GEM:1.0",
+            "TUNGSTEN_PLATE:1.0"
+        ],
+        "count": 1,
+        "duration": 14400,
+        "overrideOutputId": "DWARVEN_HANDWARMERS"
+    },
+    "DWARVEN_METAL": {
+        "inputs": [
+            "REFINED_TUNGSTEN:4.0",
+            "REFINED_UMBER:4.0",
+            "GLACITE_AMALGAMATION:4.0"
+        ],
+        "count": 1.0,
+        "duration": 86400,
+        "overrideOutputId": "DWARVEN_METAL"
+    },
+    "FORGE_TRAVEL_SCROLL": {
+        "inputs": [
+            "SKYBLOCK_COIN:25000",
+            "ENCHANTED_ENDER_PEARL:16",
+            "MITHRIL_ORE:48",
+            "TITANIUM_ORE:80"
+        ],
+        "count": 1,
+        "duration": 18000,
+        "overrideOutputId": "FORGE_TRAVEL_SCROLL"
+    },
+    "FRIGID_HUSK": {
+        "inputs": [
+            "FLAWLESS_ONYX_GEM:1.0",
+            "GLACITE_AMALGAMATION:4.0"
+        ],
+        "count": 1.0,
+        "duration": 21600,
+        "overrideOutputId": "FRIGID_HUSK"
+    },
+    "FUEL_TANK": {
+        "inputs": [
+            "ENCHANTED_COAL_BLOCK:2"
+        ],
+        "count": 1,
+        "duration": 36000,
+        "overrideOutputId": "FUEL_TANK"
+    },
+    "GEMSTONE_CHAMBER": {
+        "inputs": [
+            "WORM_MEMBRANE:100",
+            "GEMSTONE_MIXTURE:1",
+            "SKYBLOCK_COIN:25000"
+        ],
+        "count": 1,
+        "duration": 14400,
+        "overrideOutputId": "GEMSTONE_CHAMBER"
+    },
+    "GEMSTONE_DRILL_1": {
+        "inputs": [
+            "DRILL_ENGINE:1",
+            "FUEL_TANK:1",
+            "FINE_RUBY_GEM:6"
+        ],
+        "count": 1,
+        "duration": 14400,
+        "overrideOutputId": "GEMSTONE_DRILL_1"
+    },
+    "GEMSTONE_DRILL_2": {
+        "inputs": [
+            "GEMSTONE_DRILL_1:1",
+            "GEMSTONE_MIXTURE:3"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "GEMSTONE_DRILL_2"
+    },
+    "GEMSTONE_DRILL_3": {
+        "inputs": [
+            "FLAWLESS_TOPAZ_GEM:1",
+            "GEMSTONE_MIXTURE:3",
+            "GEMSTONE_DRILL_2:1",
+            "MAGMA_CORE:8"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "GEMSTONE_DRILL_3"
+    },
+    "GEMSTONE_DRILL_4": {
+        "inputs": [
+            "TREASURITE:100",
+            "FLAWLESS_JASPER_GEM:1",
+            "GEMSTONE_DRILL_3:1",
+            "MAGMA_CORE:16"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "GEMSTONE_DRILL_4"
+    },
+    "GEMSTONE_FUEL_TANK": {
+        "inputs": [
+            "GEMSTONE_MIXTURE:10",
+            "TITANIUM_FUEL_TANK:1",
+            "PRECURSOR_APPARATUS:4"
+        ],
+        "count": 1.0,
+        "duration": 30,
+        "overrideOutputId": "GEMSTONE_FUEL_TANK"
+    },
+    "GEMSTONE_MIXTURE": {
+        "inputs": [
+            "FINE_JADE_GEM:4",
+            "SLUDGE_JUICE:320",
+            "FINE_AMBER_GEM:4",
+            "FINE_SAPPHIRE_GEM:4",
+            "FINE_AMETHYST_GEM:4"
+        ],
+        "count": 1,
+        "duration": 14400,
+        "overrideOutputId": "GEMSTONE_MIXTURE"
+    },
+    "GLACITE_AMALGAMATION": {
+        "inputs": [
+            "ENCHANTED_GLACITE:256.0",
+            "FINE_PERIDOT_GEM:4.0",
+            "FINE_AQUAMARINE_GEM:4.0",
+            "FINE_CITRINE_GEM:4.0",
+            "FINE_ONYX_GEM:4.0"
+        ],
+        "count": 1.0,
+        "duration": 14400,
+        "overrideOutputId": "GLACITE_AMALGAMATION"
+    },
+    "GLACITE_CHISEL": {
+        "inputs": [
+            "REINFORCED_CHISEL:1.0",
+            "BEJEWELED_HANDLE:1.0",
+            "GLACITE_AMALGAMATION:8.0",
+            "MITHRIL_PLATE:1.0"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "GLACITE_CHISEL"
+    },
+    "GLEAMING_CRYSTAL": {
+        "inputs": [
+            "GLOSSY_GEMSTONE:32.0",
+            "REFINED_MITHRIL:1.0",
+            "REFINED_DIAMOND:2.0"
+        ],
+        "count": 1.0,
+        "duration": 21600,
+        "overrideOutputId": "GLEAMING_CRYSTAL"
+    },
+    "GOBLIN;4": {
+        "inputs": [
+            "FLAWLESS_AMBER_GEM:1.0",
+            "UGLY_FOSSIL:1.0"
+        ],
+        "count": 1,
+        "duration": 604800,
+        "overrideOutputId": "GOBLIN;4"
+    },
+    "GOBLIN_OMELETTE": {
+        "inputs": [
+            "GOBLIN_EGG:96"
+        ],
+        "count": 1,
+        "duration": 64800,
+        "overrideOutputId": "GOBLIN_OMELETTE"
+    },
+    "GOBLIN_OMELETTE_BLUE_CHEESE": {
+        "inputs": [
+            "GOBLIN_OMELETTE:1",
+            "FLAWLESS_SAPPHIRE_GEM:1",
+            "GOBLIN_EGG_BLUE:96"
+        ],
+        "count": 1,
+        "duration": 64800,
+        "overrideOutputId": "GOBLIN_OMELETTE_BLUE_CHEESE"
+    },
+    "GOBLIN_OMELETTE_PESTO": {
+        "inputs": [
+            "FLAWLESS_JADE_GEM:1",
+            "GOBLIN_EGG_GREEN:96",
+            "GOBLIN_OMELETTE:1"
+        ],
+        "count": 1,
+        "duration": 64800,
+        "overrideOutputId": "GOBLIN_OMELETTE_PESTO"
+    },
+    "GOBLIN_OMELETTE_SPICY": {
+        "inputs": [
+            "FLAWLESS_RUBY_GEM:1",
+            "GOBLIN_OMELETTE:1",
+            "GOBLIN_EGG_RED:96"
+        ],
+        "count": 1,
+        "duration": 64800,
+        "overrideOutputId": "GOBLIN_OMELETTE_SPICY"
+    },
+    "GOBLIN_OMELETTE_SUNNY_SIDE": {
+        "inputs": [
+            "GOBLIN_EGG_YELLOW:96",
+            "FLAWLESS_TOPAZ_GEM:1",
+            "GOBLIN_OMELETTE:1"
+        ],
+        "count": 1,
+        "duration": 64800,
+        "overrideOutputId": "GOBLIN_OMELETTE_SUNNY_SIDE"
+    },
+    "GOLDEN_PLATE": {
+        "inputs": [
+            "ENCHANTED_GOLD_BLOCK:2",
+            "REFINED_DIAMOND:1",
+            "GLACITE_JEWEL:5"
+        ],
+        "count": 1,
+        "duration": 21600,
+        "overrideOutputId": "GOLDEN_PLATE"
+    },
+    "HOT_STUFF": {
+        "inputs": [
+            "FLAWLESS_TOPAZ_GEM:1",
+            "ENCHANTED_HARD_STONE:128"
+        ],
+        "count": 1,
+        "duration": 21600,
+        "overrideOutputId": "HOT_STUFF"
+    },
+    "JADE_BELT": {
+        "inputs": [
+            "GLOSSY_GEMSTONE:32.0",
+            "FLAWLESS_JADE_GEM:2.0"
+        ],
+        "count": 1.0,
+        "duration": 86400,
+        "overrideOutputId": "JADE_BELT"
+    },
+    "MAMMOTH;4": {
+        "inputs": [
+            "TUSK_FOSSIL:1.0",
+            "FLAWLESS_ONYX_GEM:1.0"
+        ],
+        "count": 1,
+        "duration": 604800,
+        "overrideOutputId": "MAMMOTH;4"
+    },
+    "MITHRIL_BELT": {
+        "inputs": [
+            "ENCHANTED_MITHRIL:3.0"
+        ],
+        "count": 1.0,
+        "duration": 3600,
+        "overrideOutputId": "MITHRIL_BELT"
+    },
+    "MITHRIL_CLOAK": {
+        "inputs": [
+            "ENCHANTED_MITHRIL:3.0"
+        ],
+        "count": 1.0,
+        "duration": 3600,
+        "overrideOutputId": "MITHRIL_CLOAK"
+    },
+    "MITHRIL_DRILL_1": {
+        "inputs": [
+            "REFINED_MITHRIL:3",
+            "DRILL_ENGINE:1",
+            "FUEL_TANK:1"
+        ],
+        "count": 1,
+        "duration": 14400,
+        "overrideOutputId": "MITHRIL_DRILL_1"
+    },
+    "MITHRIL_DRILL_2": {
+        "inputs": [
+            "GOLDEN_PLATE:1",
+            "MITHRIL_DRILL_1:1",
+            "MITHRIL_PLATE:1"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "MITHRIL_DRILL_2"
+    },
+    "MITHRIL_DRILL_ENGINE": {
+        "inputs": [
+            "MITHRIL_PLATE:1",
+            "DRILL_ENGINE:2"
+        ],
+        "count": 1,
+        "duration": 86400,
+        "overrideOutputId": "MITHRIL_DRILL_ENGINE"
+    },
+    "MITHRIL_FUEL_TANK": {
+        "inputs": [
+            "REFINED_DIAMOND:5",
+            "REFINED_MITHRIL:10",
+            "FUEL_TANK:5"
+        ],
+        "count": 1,
+        "duration": 86400,
+        "overrideOutputId": "MITHRIL_FUEL_TANK"
+    },
+    "MITHRIL_GAUNTLET": {
+        "inputs": [
+            "ENCHANTED_MITHRIL:3.0"
+        ],
+        "count": 1.0,
+        "duration": 3600,
+        "overrideOutputId": "MITHRIL_GAUNTLET"
+    },
+    "MITHRIL_NECKLACE": {
+        "inputs": [
+            "ENCHANTED_MITHRIL:3.0"
+        ],
+        "count": 1.0,
+        "duration": 3600,
+        "overrideOutputId": "MITHRIL_NECKLACE"
+    },
+    "MITHRIL_PLATE": {
+        "inputs": [
+            "GOLDEN_PLATE:1",
+            "REFINED_TITANIUM:1",
+            "REFINED_MITHRIL:5",
+            "ENCHANTED_IRON_BLOCK:1"
+        ],
+        "count": 1,
+        "duration": 64800,
+        "overrideOutputId": "MITHRIL_PLATE"
+    },
+    "MOLE;4": {
+        "inputs": [
+            "SKYBLOCK_COIN:300000.0",
+            "CLAW_FOSSIL:1.0"
+        ],
+        "count": 1.0,
+        "duration": 259200,
+        "overrideOutputId": "MOLE;4"
+    },
+    "PENGUIN;4": {
+        "inputs": [
+            "WEBBED_FOSSIL:1.0",
+            "FLAWLESS_AQUAMARINE_GEM:1.0"
+        ],
+        "count": 1,
+        "duration": 604800,
+        "overrideOutputId": "PENGUIN;4"
+    },
+    "PERFECTLY_CUT_FUEL_TANK": {
+        "inputs": [
+            "GEMSTONE_FUEL_TANK:1.0",
+            "PRECURSOR_APPARATUS:16.0",
+            "GEMSTONE_MIXTURE:25.0",
+            "PLASMA:32.0"
+        ],
+        "count": 1.0,
+        "duration": 30,
+        "overrideOutputId": "PERFECTLY_CUT_FUEL_TANK"
+    },
+    "PERFECT_AMBER_GEM": {
+        "inputs": [
+            "AMBER_CRYSTAL:1",
+            "FLAWLESS_AMBER_GEM:5"
+        ],
+        "count": 1,
+        "duration": 72000,
+        "overrideOutputId": "PERFECT_AMBER_GEM"
+    },
+    "PERFECT_AMETHYST_GEM": {
+        "inputs": [
+            "AMETHYST_CRYSTAL:1",
+            "FLAWLESS_AMETHYST_GEM:5"
+        ],
+        "count": 1,
+        "duration": 72000,
+        "overrideOutputId": "PERFECT_AMETHYST_GEM"
+    },
+    "PERFECT_AQUAMARINE_GEM": {
+        "inputs": [
+            "AQUAMARINE_CRYSTAL:1.0",
+            "FLAWLESS_AQUAMARINE_GEM:5.0"
+        ],
+        "count": 1.0,
+        "duration": 72000,
+        "overrideOutputId": "PERFECT_AQUAMARINE_GEM"
+    },
+    "PERFECT_CHISEL": {
+        "inputs": [
+            "BEJEWELED_HANDLE:1.0",
+            "GLACITE_CHISEL:1.0",
+            "PERFECT_PLATE:1.0"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "PERFECT_CHISEL"
+    },
+    "PERFECT_CITRINE_GEM": {
+        "inputs": [
+            "FLAWLESS_CITRINE_GEM:5.0",
+            "CITRINE_CRYSTAL:1.0"
+        ],
+        "count": 1.0,
+        "duration": 72000,
+        "overrideOutputId": "PERFECT_CITRINE_GEM"
+    },
+    "PERFECT_JADE_GEM": {
+        "inputs": [
+            "FLAWLESS_JADE_GEM:5",
+            "JADE_CRYSTAL:1"
+        ],
+        "count": 1,
+        "duration": 72000,
+        "overrideOutputId": "PERFECT_JADE_GEM"
+    },
+    "PERFECT_JASPER_GEM": {
+        "inputs": [
+            "FLAWLESS_JASPER_GEM:5",
+            "JASPER_CRYSTAL:1"
+        ],
+        "count": 1,
+        "duration": 72000,
+        "overrideOutputId": "PERFECT_JASPER_GEM"
+    },
+    "PERFECT_ONYX_GEM": {
+        "inputs": [
+            "FLAWLESS_ONYX_GEM:5.0",
+            "ONYX_CRYSTAL:1.0"
+        ],
+        "count": 1.0,
+        "duration": 72000,
+        "overrideOutputId": "PERFECT_ONYX_GEM"
+    },
+    "PERFECT_OPAL_GEM": {
+        "inputs": [
+            "FLAWLESS_OPAL_GEM:5",
+            "OPAL_CRYSTAL:1"
+        ],
+        "count": 1,
+        "duration": 72000,
+        "overrideOutputId": "PERFECT_OPAL_GEM"
+    },
+    "PERFECT_PERIDOT_GEM": {
+        "inputs": [
+            "PERIDOT_CRYSTAL:1.0",
+            "FLAWLESS_PERIDOT_GEM:5.0"
+        ],
+        "count": 1.0,
+        "duration": 72000,
+        "overrideOutputId": "PERFECT_PERIDOT_GEM"
+    },
+    "PERFECT_PLATE": {
+        "inputs": [
+            "UMBER_PLATE:1.0",
+            "TUNGSTEN_PLATE:1.0",
+            "MITHRIL_PLATE:1.0"
+        ],
+        "count": 1.0,
+        "duration": 1800,
+        "overrideOutputId": "PERFECT_PLATE"
+    },
+    "PERFECT_RUBY_GEM": {
+        "inputs": [
+            "RUBY_CRYSTAL:1",
+            "FLAWLESS_RUBY_GEM:5"
+        ],
+        "count": 1,
+        "duration": 72000,
+        "overrideOutputId": "PERFECT_RUBY_GEM"
+    },
+    "PERFECT_SAPPHIRE_GEM": {
+        "inputs": [
+            "FLAWLESS_SAPPHIRE_GEM:5",
+            "SAPPHIRE_CRYSTAL:1"
+        ],
+        "count": 1,
+        "duration": 72000,
+        "overrideOutputId": "PERFECT_SAPPHIRE_GEM"
+    },
+    "PERFECT_TOPAZ_GEM": {
+        "inputs": [
+            "FLAWLESS_TOPAZ_GEM:5",
+            "TOPAZ_CRYSTAL:1"
+        ],
+        "count": 1,
+        "duration": 72000,
+        "overrideOutputId": "PERFECT_TOPAZ_GEM"
+    },
+    "PETRIFIED_STARFALL": {
+        "inputs": [
+            "STARFALL:512"
+        ],
+        "count": 1,
+        "duration": 21600,
+        "overrideOutputId": "PETRIFIED_STARFALL"
+    },
+    "POCKET_ICEBERG": {
+        "inputs": [
+            "GLACITE_JEWEL:5.0"
+        ],
+        "count": 1.0,
+        "duration": 21600,
+        "overrideOutputId": "POCKET_ICEBERG"
+    },
+    "POLISHED_TOPAZ_ROD": {
+        "inputs": [
+            "BEJEWELED_HANDLE:3.0",
+            "FLAWLESS_TOPAZ_GEM:2.0"
+        ],
+        "count": 1.0,
+        "duration": 43200,
+        "overrideOutputId": "POLISHED_TOPAZ_ROD"
+    },
+    "PORTABLE_CAMPFIRE": {
+        "inputs": [
+            "REFINED_UMBER:1.0",
+            "MATCH_STICKS:16.0"
+        ],
+        "count": 1,
+        "duration": 1800,
+        "overrideOutputId": "PORTABLE_CAMPFIRE"
+    },
+    "POWER_CRYSTAL": {
+        "inputs": [
+            "STARFALL:256"
+        ],
+        "count": 1,
+        "duration": 7200,
+        "overrideOutputId": "POWER_CRYSTAL"
+    },
+    "POWER_RELIC": {
+        "inputs": [
+            "POWER_ARTIFACT:1.0",
+            "PERFECT_PLATE:1.0",
+            "GLACITE_AMALGAMATION:32.0"
+        ],
+        "count": 1.0,
+        "duration": 28800,
+        "overrideOutputId": "POWER_RELIC"
+    },
+    "PURE_MITHRIL": {
+        "inputs": [
+            "REFINED_MITHRIL:2"
+        ],
+        "count": 1,
+        "duration": 21600,
+        "overrideOutputId": "PURE_MITHRIL"
+    },
+    "REFINED_DIAMOND": {
+        "inputs": [
+            "ENCHANTED_DIAMOND_BLOCK:2"
+        ],
+        "count": 1,
+        "duration": 28800,
+        "overrideOutputId": "REFINED_DIAMOND"
+    },
+    "REFINED_MITHRIL": {
+        "inputs": [
+            "ENCHANTED_MITHRIL:160"
+        ],
+        "count": 1,
+        "duration": 21600,
+        "overrideOutputId": "REFINED_MITHRIL"
+    },
+    "REFINED_TITANIUM": {
+        "inputs": [
+            "ENCHANTED_TITANIUM:16"
+        ],
+        "count": 1,
+        "duration": 43200,
+        "overrideOutputId": "REFINED_TITANIUM"
+    },
+    "REFINED_TUNGSTEN": {
+        "inputs": [
+            "ENCHANTED_TUNGSTEN:160.0"
+        ],
+        "count": 1.0,
+        "duration": 3600,
+        "overrideOutputId": "REFINED_TUNGSTEN"
+    },
+    "REFINED_UMBER": {
+        "inputs": [
+            "ENCHANTED_UMBER:160.0"
+        ],
+        "count": 1.0,
+        "duration": 3600,
+        "overrideOutputId": "REFINED_UMBER"
+    },
+    "REINFORCED_CHISEL": {
+        "inputs": [
+            "REFINED_TUNGSTEN:2",
+            "BEJEWELED_HANDLE:1",
+            "REFINED_UMBER:2",
+            "CHISEL:1"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "REINFORCED_CHISEL"
+    },
+    "ROCK_GEMSTONE": {
+        "inputs": [
+            "TREASURITE:64",
+            "ENCHANTED_COBBLESTONE:128"
+        ],
+        "count": 1,
+        "duration": 21600,
+        "overrideOutputId": "ROCK_GEMSTONE"
+    },
+    "RUBY_POLISHED_DRILL_ENGINE": {
+        "inputs": [
+            "PERFECT_RUBY_GEM:1.0",
+            "PRECURSOR_APPARATUS:4.0",
+            "TITANIUM_DRILL_ENGINE:1.0",
+            "DRILL_ENGINE:5.0"
+        ],
+        "count": 1.0,
+        "duration": 30,
+        "overrideOutputId": "RUBY_POLISHED_DRILL_ENGINE"
+    },
+    "SAPPHIRE_CLOAK": {
+        "inputs": [
+            "FLAWLESS_SAPPHIRE_GEM:2.0",
+            "GLOSSY_GEMSTONE:32.0"
+        ],
+        "count": 1.0,
+        "duration": 86400,
+        "overrideOutputId": "SAPPHIRE_CLOAK"
+    },
+    "SAPPHIRE_POLISHED_DRILL_ENGINE": {
+        "inputs": [
+            "PERFECT_SAPPHIRE_GEM:3.0",
+            "DRILL_ENGINE:5.0",
+            "RUBY_POLISHED_DRILL_ENGINE:1.0",
+            "PLASMA:16.0",
+            "PRECURSOR_APPARATUS:8.0"
+        ],
+        "count": 1.0,
+        "duration": 30,
+        "overrideOutputId": "SAPPHIRE_POLISHED_DRILL_ENGINE"
+    },
+    "SECRET_RAILROAD_PASS": {
+        "inputs": [
+            "CORLEONITE:8.0",
+            "REFINED_MITHRIL:2.0",
+            "FLAWLESS_RUBY_GEM:1.0"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "SECRET_RAILROAD_PASS"
+    },
+    "SKELETON_KEY": {
+        "inputs": [
+            "BEJEWELED_HANDLE:1.0",
+            "PERFECT_PLATE:1.0"
+        ],
+        "count": 1.0,
+        "duration": 1800,
+        "overrideOutputId": "SKELETON_KEY"
+    },
+    "SPINOSAURUS;4": {
+        "inputs": [
+            "SPINE_FOSSIL:1.0",
+            "FLAWLESS_AQUAMARINE_GEM:1.0"
+        ],
+        "count": 1.0,
+        "duration": 604800,
+        "overrideOutputId": "SPINOSAURUS;4"
+    },
+    "STARFALL_SEASONING": {
+        "inputs": [
+            "TREASURITE:16.0",
+            "STARFALL:64.0"
+        ],
+        "count": 1.0,
+        "duration": 64800,
+        "overrideOutputId": "STARFALL_SEASONING"
+    },
+    "TITANIUM_ARTIFACT": {
+        "inputs": [
+            "REFINED_TITANIUM:12",
+            "TITANIUM_RING:1"
+        ],
+        "count": 1,
+        "duration": 129600,
+        "overrideOutputId": "TITANIUM_ARTIFACT"
+    },
+    "TITANIUM_BELT": {
+        "inputs": [
+            "REFINED_TITANIUM:1.0",
+            "REFINED_MINERAL:16.0",
+            "MITHRIL_BELT:1.0"
+        ],
+        "count": 1.0,
+        "duration": 16200,
+        "overrideOutputId": "TITANIUM_BELT"
+    },
+    "TITANIUM_CLOAK": {
+        "inputs": [
+            "MITHRIL_CLOAK:1.0",
+            "REFINED_TITANIUM:1.0",
+            "REFINED_MINERAL:16.0"
+        ],
+        "count": 1.0,
+        "duration": 16200,
+        "overrideOutputId": "TITANIUM_CLOAK"
+    },
+    "TITANIUM_DRILL_1": {
+        "inputs": [
+            "FUEL_TANK:1",
+            "DRILL_ENGINE:1",
+            "REFINED_MITHRIL:8",
+            "REFINED_TITANIUM:8",
+            "GOLDEN_PLATE:6"
+        ],
+        "count": 1,
+        "duration": 14400,
+        "overrideOutputId": "TITANIUM_DRILL_1"
+    },
+    "TITANIUM_DRILL_2": {
+        "inputs": [
+            "MITHRIL_PLATE:5",
+            "REFINED_TITANIUM:12",
+            "REFINED_DIAMOND:10",
+            "TITANIUM_DRILL_1:1"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "TITANIUM_DRILL_2"
+    },
+    "TITANIUM_DRILL_3": {
+        "inputs": [
+            "REFINED_DIAMOND:20",
+            "ENCHANTED_IRON_BLOCK:2",
+            "PLASMA:20",
+            "TITANIUM_DRILL_2:1",
+            "REFINED_TITANIUM:16",
+            "MITHRIL_PLATE:10"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "TITANIUM_DRILL_3"
+    },
+    "TITANIUM_DRILL_4": {
+        "inputs": [
+            "GEMSTONE_MIXTURE:16",
+            "FLAWLESS_RUBY_GEM:1",
+            "MITHRIL_PLATE:10",
+            "REFINED_TITANIUM:32",
+            "CORLEONITE:30",
+            "TITANIUM_DRILL_3:1",
+            "REFINED_DIAMOND:5"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "TITANIUM_DRILL_4"
+    },
+    "TITANIUM_DRILL_ENGINE": {
+        "inputs": [
+            "DRILL_ENGINE:2",
+            "MITHRIL_DRILL_ENGINE:1",
+            "REFINED_TITANIUM:8"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "TITANIUM_DRILL_ENGINE"
+    },
+    "TITANIUM_FUEL_TANK": {
+        "inputs": [
+            "REFINED_DIAMOND:5",
+            "REFINED_TITANIUM:10",
+            "FUEL_TANK:5",
+            "MITHRIL_FUEL_TANK:1"
+        ],
+        "count": 1,
+        "duration": 30,
+        "overrideOutputId": "TITANIUM_FUEL_TANK"
+    },
+    "TITANIUM_GAUNTLET": {
+        "inputs": [
+            "REFINED_MINERAL:16.0",
+            "MITHRIL_GAUNTLET:1.0",
+            "REFINED_TITANIUM:1.0"
+        ],
+        "count": 1.0,
+        "duration": 16200,
+        "overrideOutputId": "TITANIUM_GAUNTLET"
+    },
+    "TITANIUM_NECKLACE": {
+        "inputs": [
+            "REFINED_TITANIUM:1.0",
+            "MITHRIL_NECKLACE:1.0",
+            "REFINED_MINERAL:16.0"
+        ],
+        "count": 1.0,
+        "duration": 16200,
+        "overrideOutputId": "TITANIUM_NECKLACE"
+    },
+    "TITANIUM_RELIC": {
+        "inputs": [
+            "TITANIUM_ARTIFACT:1",
+            "REFINED_TITANIUM:20"
+        ],
+        "count": 1,
+        "duration": 259200,
+        "overrideOutputId": "TITANIUM_RELIC"
+    },
+    "TITANIUM_RING": {
+        "inputs": [
+            "TITANIUM_TALISMAN:1",
+            "REFINED_TITANIUM:6"
+        ],
+        "count": 1,
+        "duration": 72000,
+        "overrideOutputId": "TITANIUM_RING"
+    },
+    "TITANIUM_TALISMAN": {
+        "inputs": [
+            "REFINED_TITANIUM:2"
+        ],
+        "count": 1,
+        "duration": 50400,
+        "overrideOutputId": "TITANIUM_TALISMAN"
+    },
+    "TITANIUM_TESSERACT": {
+        "inputs": [
+            "ENCHANTED_LAPIS_LAZULI:16.0",
+            "REFINED_TITANIUM:1.0"
+        ],
+        "count": 1.0,
+        "duration": 21600,
+        "overrideOutputId": "TITANIUM_TESSERACT"
+    },
+    "TUNGSTEN_KEY": {
+        "inputs": [
+            "ENCHANTED_TUNGSTEN:192.0",
+            "BEJEWELED_HANDLE:1.0"
+        ],
+        "count": 1.0,
+        "duration": 30,
+        "overrideOutputId": "TUNGSTEN_KEY"
+    },
+    "TUNGSTEN_KEYCHAIN": {
+        "inputs": [
+            "PERFECT_OPAL_GEM:1.0",
+            "FUEL_TANK:5.0",
+            "TUNGSTEN_PLATE:5.0"
+        ],
+        "count": 1,
+        "duration": 64800,
+        "overrideOutputId": "TUNGSTEN_KEYCHAIN"
+    },
+    "TUNGSTEN_PLATE": {
+        "inputs": [
+            "GLACITE_AMALGAMATION:1.0",
+            "REFINED_TUNGSTEN:4.0"
+        ],
+        "count": 1.0,
+        "duration": 10800,
+        "overrideOutputId": "TUNGSTEN_PLATE"
+    },
+    "TYRANNOSAURUS;4": {
+        "inputs": [
+            "FOOTPRINT_FOSSIL:1.0",
+            "FLAWLESS_ONYX_GEM:1.0"
+        ],
+        "count": 1,
+        "duration": 604800,
+        "overrideOutputId": "TYRANNOSAURUS;4"
+    },
+    "UMBER_KEY": {
+        "inputs": [
+            "BEJEWELED_HANDLE:1.0",
+            "ENCHANTED_UMBER:192.0"
+        ],
+        "count": 1.0,
+        "duration": 30,
+        "overrideOutputId": "UMBER_KEY"
+    },
+    "UMBER_PLATE": {
+        "inputs": [
+            "REFINED_UMBER:4.0",
+            "GLACITE_AMALGAMATION:1.0"
+        ],
+        "count": 1.0,
+        "duration": 10800,
+        "overrideOutputId": "UMBER_PLATE"
+    }
 }
