@@ -1,0 +1,83 @@
+{
+  "MITHRIL_PLATE": {
+    "recipe": {
+      "ENCHANTED_MITHRIL": 160,
+      "REFINED_MITHRIL": 1
+    },
+    "time": 6
+  },
+  "GOLDEN_PLATE": {
+    "recipe": {
+      "ENCHANTED_GOLD_BLOCK": 5,
+      "ENCHANTED_IRON_BLOCK": 3,
+      "REFINED_DIAMOND": 1
+    },
+    "time": 6
+  },
+  "REFINED_MITHRIL": {
+    "recipe": {
+      "ENCHANTED_MITHRIL": 320
+    },
+    "time": 4
+  },
+  "REFINED_DIAMOND": {
+    "recipe": {
+      "ENCHANTED_DIAMOND_BLOCK": 1
+    },
+    "time": 4
+  },
+  "REFINED_TITANIUM": {
+    "recipe": {
+      "ENCHANTED_TITANIUM": 320
+    },
+    "time": 4
+  },
+  "FUEL_TANK": {
+    "recipe": {
+      "ENCHANTED_COAL_BLOCK": 10,
+      "REFINED_MITHRIL": 2
+    },
+    "time": 6
+  },
+  "DRILL_ENGINE": {
+    "recipe": {
+      "ENCHANTED_GOLD_BLOCK": 10,
+      "REFINED_DIAMOND": 2,
+      "REFINED_MITHRIL": 10
+    },
+    "time": 12
+  },
+  "SYNTHETIC_HEART": {
+    "recipe": {
+      "SORROW": 3,
+      "REFINED_MITHRIL": 5
+    },
+    "time": 12
+  },
+  "PERFECT_JADE": {
+    "recipe": {
+      "FLAWLESS_JADE_GEM": 5
+    },
+    "time": 8
+  },
+  "PERFECT_AMBER": {
+    "recipe": {
+      "FLAWLESS_AMBER_GEM": 5
+    },
+    "time": 8
+  },
+  "PERFECT_TOPAZ": {
+    "recipe": {
+      "FLAWLESS_TOPAZ_GEM": 5
+    },
+    "time": 8
+  },
+  "BEACON": {
+    "recipe": {
+      "ENCHANTED_IRON_BLOCK": 3,
+      "ENCHANTED_COAL_BLOCK": 3,
+      "REFINED_DIAMOND": 1
+    },
+    "time": 12
+  }
+}
